@@ -5,10 +5,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat-square&logo=tensorflow)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/stock_market.png" alt="Stock Prediction" width="400px"/>
-</p>
-
 ---
 
 ## 🚀 Project Overview
